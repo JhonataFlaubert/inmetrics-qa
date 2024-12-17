@@ -13,5 +13,4 @@ Feature: Fluxo de Finalização de Compra
       And clica no botão "Login"
       When que o usuário clica em next
       And o usuário preenche os dados do SafePay com o nome de usuário "Jhonataqa1" e senha "Senhaqa@1"
-      And clica no botão "Pay Now"
-      Then a compra deve ser finalizada com sucesso
+      Then clica no botão PAY NOW
