@@ -1,8 +1,9 @@
 <h1 align="center">Automação Cypress </h1>
 Desafio de fazer a automação do website https://www.advantageonlineshopping.com/#/
 
-O testes é dividido em 7 etapas
+O testes é dividido em 6 etapas
 
+- [x]    API
 - [x]    Realizar Cadastro
 - [x]    Buscar produto no site
 - [x]    Incluir produto no carrinho
